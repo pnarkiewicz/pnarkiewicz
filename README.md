@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my repository! Areas of my interests are: machine learning, data science, cryptocurrencis, blockchain.
+
+
 <!--
 **pnarkiewicz/pnarkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
