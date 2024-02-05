@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-Welcome to my repository! Areas of my interests are: machine learning, data science, cryptocurrencis, blockchain.
+Welcome to my repository! Areas of my interests are: 
+- machine learning,
+- data science,
+- trading,
+- cryptocurrencis,
+- blockchain.
+
+Feel free to explore my projects related to:
+- Machine Learning Research - https://github.com/pnarkiewicz/Machine-Learning
+- Machine Learning Engineering - https://github.com/pnarkiewicz/ML-endpoint, https://github.com/pnarkiewicz/AWS-ML-LifeCycle
+- Blockchain Applications - https://github.com/pnarkiewicz/ethdenver-snaps-wallet, https://github.com/s-a-malik/blackbelt
 
 
 <!--
